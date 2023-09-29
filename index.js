@@ -31,4 +31,4 @@ app.handleRequest = (req, res) => {
 };
 
 app.createServer();
-// console.log(app);
+console.log(app);
